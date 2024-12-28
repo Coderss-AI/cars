@@ -1,8 +1,0 @@
-streamlit
-pandas
-scikit-learn
-LabelEncoder
-sklearn.preprocessing
-pickle
-scipy
-matplotlip
