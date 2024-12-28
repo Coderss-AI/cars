@@ -1,7 +1,3 @@
 streamlit
 pandas
-LabelEncoder
-sklearn.preprocessing
 pickle
-scipy
-matplotlip
