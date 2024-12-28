@@ -1,6 +1,5 @@
 streamlit
 pandas
--U
 scikit-learn
 LabelEncoder
 sklearn.preprocessing
